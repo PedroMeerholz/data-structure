@@ -1,4 +1,4 @@
-#include "statistics.h"
+#include "arquivos-cabecalho/statistics.h"
 #include <math.h>
 
 float calcular_media(int valores[LENGTH]) {
